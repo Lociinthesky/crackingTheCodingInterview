@@ -1,0 +1,1 @@
+This is the repo for notes on and solutions for the problems in Cracking the Coding Interview.
